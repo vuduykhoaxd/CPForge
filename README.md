@@ -3,7 +3,7 @@
 **CPForge** là IDE C/C++ cho ôn luyện lập trình thi đấu trên **Windows (x64)**. Bản phát hành dạng **bộ cài `.exe` (standalone)**, đã kèm **MinGW-w64** (bundled & locked) — không cần cài compiler riêng. *Mã nguồn không công khai (closed-source).*
 
 ## Tải về & cài đặt
-- Tải và chạy `CPForge_1.0.0_x64-setup.exe`, sau đó mở `cpforge.exe`.
+- ~~Tải và chạy `CPForge_1.0.0_x64-setup.exe`, sau đó mở `cpforge.exe`.~~
 - Yêu cầu: Windows 10/11 (x64), WebView2 Runtime (thường có sẵn).
 
 ## Liên hệ & góp ý
