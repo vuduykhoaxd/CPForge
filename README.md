@@ -7,9 +7,9 @@
 - Yêu cầu: Windows 10/11 (x64), WebView2 Runtime (thường có sẵn).
 
 ## Liên hệ & góp ý
-- Email: **vuduykhoaxd@gmail.com**
-- Discord: **@vdk_xd**
-- Góp ý/feedback: **vuduykhoaxd@gmail.com**
+- ~~Email: **vuduykhoaxd@gmail.com**~~
+- ~~Discord: **@vdk_xd**~~
+- ~~Góp ý/feedback: **vuduykhoaxd@gmail.com**~~
 
 ## Ủng hộ (Donate)
 - Ngân hàng: TPBANK
